@@ -3,14 +3,6 @@
 
 A minimalistic movie listing app to browse movies using TMDB Api, built to demonstrate MVVM Architecture with latest hot-trending Android development tools including Dependency Injection, Room and many more.
 
-[![License](https://img.shields.io/badge/license-MIT-%2397ca00.svg)](https://github.com/amanpkotwani/ShowTime/blob/master/LICENSE)
-![UI Library shield](https://img.shields.io/badge/LibraryType-UI-blue.svg)
-![Sample App shield](https://img.shields.io/badge/App-Sample-green.svg)
-![Artifact badge local, or jcenter or clonerepo](https://img.shields.io/badge/Artifact-JCenter-green.svg)
-![Minimum API Level](https://img.shields.io/badge/Min%20API%20Level-21-green)
-![Maximum API Level](https://img.shields.io/badge/Max%20API%20Level-30-orange)
-![GitHub repo size](https://img.shields.io/github/repo-size/amanpkotwani/ShowTime)
-
 ## Features 🚀
 
 - Explore the Upcoming, Popular and Top Rated Movies.
